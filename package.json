@@ -1,0 +1,8 @@
+{
+  "name": "sneaky-token",
+  "version": "1.0.0",
+  "description": "generate random 21 character length url safe token using node's runtime statistics as entropy",
+  "main": "index.js",
+  "author": "Andre Poupard",
+  "license": "ISC"
+}
